@@ -1,1 +1,2 @@
-[![ardishko's GitHub stats](https://github-readme-stats.vercel.app/api?username=ardishko)](https://github.com/anuraghazra/github-readme-stats)
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=ardishko&show_icons=true&theme=transparent&hide_border=true" alt="ardishko's Github stats" /> 
+| ------------- |
