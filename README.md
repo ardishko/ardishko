@@ -2,7 +2,7 @@
 
 I'm ardishco.
 
-I'm someone that cares about authenticity, privacy and integrity. As far as github descriptions go, this is a very pretentious one but there is a point to it, I promise.
+I'm someone that cares about authenticity, privacy and security.
 
 What I have here on my profile are personal projects, mostly Linux-related.
 
