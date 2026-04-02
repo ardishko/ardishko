@@ -13,6 +13,10 @@ I have a website at https://ardishco.net/ that has all my self-hosted services u
 <div align="center">
     <h2 style="border-bottom: none;">My toolkit</h2>
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=arduino,html,css,discord,bash,blender,cloudflare,cmake,docker,git,gitlab,grafana,linux,nix,md,neovim,ps,pr,svg&theme=dark&perline=6" />
+        <img src="https://skillicons.dev/icons?i=arduino,html,css,discord,bash,blender,cloudflare,cmake,docker,git,gitlab,grafana,linux,nix,md,neovim,ps,pr,svg,postgres&theme=dark&perline=6" />
+    </a>
+     <h2 style="border-bottom: none;">What I'm learning</h2>
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=cpp,cs,rust,qt&theme=dark&perline=6" />
     </a>
 </div>
