@@ -11,7 +11,6 @@ A majority of my time goes to homelabbing and perfecting my NixOS setup with my 
 I have a website at https://ardishco.net/ that has all my self-hosted services under its umbrella.
 
 <div align="center">
-  ## My toolkit
   [![My toolkit](https://skillicons.dev/icons?i=arduino,html,css,discord,bash,blender,cloudflare,cmake,docker,git,gitlab,grafana,linux,nix,md,neovim,ps,pr,svg)](https://skillicons.dev)
 
 <div>
