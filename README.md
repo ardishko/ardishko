@@ -13,4 +13,4 @@ I have a website at https://ardishco.net/ that has all my self-hosted services u
 <div align="center">
   [![My toolkit](https://skillicons.dev/icons?i=arduino,html,css,discord,bash,blender,cloudflare,cmake,docker,git,gitlab,grafana,linux,nix,md,neovim,ps,pr,svg)](https://skillicons.dev)
 
-<div>
+</div>
